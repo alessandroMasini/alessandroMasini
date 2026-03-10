@@ -1,24 +1,17 @@
-# Hi there! 👋
+# Hi there, I'm Alessandro! 👋
 
-I'm Alessandro, a master student based in Milano. Welcome to my GitHub profile!
+I'm a Master's student in **Artificial Intelligence** at **Politecnico di Milano**, passionate about solving complex problems bridging machine learning, advanced mathematics, and applied research.
 
-🔭 **I’m currently working on...**
-- Deep Learning
-- Artificial Neural Networks
-- Large Language Models
+### 🔭 What I focus on
+* **Deep Learning & Neural Networks:** Building architectures for computer vision, generative tasks, and medical imaging.
+* **Large Language Models (LLMs):** Fine-tuning, dataset analysis, and deploying LLMs for real-world fact-checking.
+* **Scientific Computing & Applied Math:** I have a strong foundation in designing algorithms for **Numerical Linear Algebra** and computational methods for solving **Partial Differential Equations**, bridging the gap between rigorous mathematical frameworks and intelligent algorithms.
+* **Online Machine Learning & Fintech:** Developing adaptive algorithms for dynamic pricing under inventory constraints.
 
-🌱 **I’m currently learning...**
-- Advanced Deep Learning
-- Online Machine Learning
-- Fintech
+### 💻 Featured Projects
 
-<!--⚡ **Fun fact:**
-[Interesting fact about yourself or something related to your interests.] -->
-
-<!-- --- -->
-
-<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
-
-<!-- --- -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername) -->
+* 🤖 **[text2motion](https://github.com/alessandroMasini/text2motion)** A deep learning pipeline that animates 3D meshes based on text prompts through mesh analysis, skinning, and diffusion-driven motion synthesis.
+* 🧠 **[LLMisinfo](https://github.com/alessandroMasini/LLMisinfo)** Leveraging Large Language Models for automated fact-checking and combating online misinformation.
+* 🪐 **[MartianClassifier](https://github.com/alessandroMasini/MartianClassifier)** A neural network designed to segment Mars terrain images into different soil types.
+* 🩸 **[HemoClassifier](https://github.com/alessandroMasini/HemoClassifier)** A specialized neural network for accurately classifying blood cell images.
+* 📈 **[Online-Learning-for-Dynamic-Pricing](https://github.com/alessandroMasini/Online-Learning-for-Dynamic-Pricing)** Implementation of online learning algorithms to optimize dynamic pricing strategies in constrained environments.
