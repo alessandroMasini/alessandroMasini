@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Alessandro, a master student based in Milano. Welcome to my GitHub profile!Q
+I'm Alessandro, a master student based in Milano. Welcome to my GitHub profile!
 
 🔭 **I’m currently working on...**
 - Deep Learning
